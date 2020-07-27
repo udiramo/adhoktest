@@ -1,0 +1,381 @@
+.mediaViewInfo {
+	--web-view-name: contact – 1;
+	--web-view-id: contact__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: contact__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#contact__1 {
+	position: absolute;
+	width: 1280px;
+	height: 720px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: contact – 1;
+	--web-view-id: contact__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Rettangolo_7 {
+	fill: rgba(5,47,65,1);
+}
+.Rettangolo_7 {
+	position: absolute;
+	overflow: visible;
+	width: 127px;
+	height: 48px;
+	left: 850px;
+	top: 49px;
+	transition: all 0.8s ease-in-out;
+	--web-animation: fadein 0.8s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: contact.html;
+	cursor: pointer;
+}
+#Rettangolo_1 {
+	fill: rgba(7,52,73,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_1 {
+	position: absolute;
+	overflow: visible;
+	width: 984px;
+	height: 370px;
+	left: 148px;
+	top: 175px;
+}
+#Rettangolo_2 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_2 {
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 99px;
+	left: 0px;
+	top: 317px;
+}
+#Rettangolo_3 {
+	fill: rgba(189,211,64,1);
+}
+.Rettangolo_3 {
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 99px;
+	left: 0px;
+	top: 317px;
+	--web-animation: fadein 0.8s linear;
+	--web-action-type: page;
+	--web-action-target: adhok.html;
+	cursor: pointer;
+}
+#Rettangolo_5 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rettangolo_5 {
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 99px;
+	left: 1081px;
+	top: 317px;
+}
+#Rettangolo_6 {
+	fill: rgba(189,211,64,1);
+}
+.Rettangolo_6 {
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 99px;
+	left: 1081px;
+	top: 317px;
+	--web-animation: fadein 0.8s linear;
+	--web-action-type: page;
+	--web-action-target: Life_style.html;
+	cursor: pointer;
+}
+#Linea_1 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_1 {
+	overflow: visible;
+	position: absolute;
+	width: 73px;
+	height: 5px;
+	left: 1132.5px;
+	top: 353.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Linea_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_2 {
+	overflow: visible;
+	position: absolute;
+	width: 57px;
+	height: 5px;
+	left: 1140.5px;
+	top: 367.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Linea_3 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Linea_3 {
+	overflow: visible;
+	position: absolute;
+	width: 73px;
+	height: 5px;
+	left: 1132.5px;
+	top: 380.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Home_ {
+	left: 293px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 59px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s linear;
+	--web-action-type: page;
+	--web-action-target: Home___1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(142,142,142,1);
+}
+#Small_ {
+	left: 443px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s linear;
+	--web-action-type: page;
+	--web-action-target: Small_1.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(142,142,142,1);
+}
+#Medium_ {
+	left: 583px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 88px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s linear;
+	--web-action-type: page;
+	--web-action-target: Medium.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(142,142,142,1);
+}
+#Large_ {
+	left: 733px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s linear;
+	--web-action-type: page;
+	--web-action-target: Large.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(142,142,142,1);
+}
+#Contact_ {
+	left: 863px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	transition: all 0.8s ease-in-out;
+	--web-animation: fadein 0.8s ease-in-out;
+	--web-action-type: page;
+	--web-action-target: contact.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(142,142,142,1);
+}
+#rasch_mono_geometric_off_white {
+	opacity: 0.29;
+	mix-blend-mode: color-burn;
+	position: absolute;
+	width: 984px;
+	height: 370px;
+	left: 148px;
+	top: 175px;
+	overflow: visible;
+}
+#ID20851_LissoneMB_via_Carducci {
+	left: 704px;
+	top: 416px;
+	position: absolute;
+	overflow: visible;
+	width: 320px;
+	height: 128px;
+	text-align: left;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Chi_siamo_ {
+	left: 995px;
+	top: 57px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	--web-animation: fadein 0.8s linear;
+	--web-action-type: page;
+	--web-action-target: chi_siamo.html;
+	cursor: pointer;
+	text-align: left;
+	font-family: Menlo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(142,142,142,1);
+}
+#adpng {
+	position: absolute;
+	width: 352px;
+	height: 352px;
+	left: 253px;
+	top: 171px;
+	overflow: visible;
+}
+#adpng_w_1 {
+	position: absolute;
+	width: 173px;
+	height: 173px;
+	left: 13px;
+	top: 274px;
+	overflow: visible;
+}
+#Scorri_gruppo_1 {
+	mix-blend-mode: normal;
+	position: absolute;
+	width: 314px;
+	height: 177px;
+	left: 689px;
+	top: 204px;
+	overflow: visible;
+}
+#mappa {
+	position: absolute;
+	width: 584px;
+	height: 281px;
+	left: -29px;
+	top: -33px;
+	overflow: visible;
+}
